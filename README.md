@@ -1,7 +1,7 @@
 # rust-lessons
 📕 Rust 自学手册
 
-![ds](./cover.jpg "Rust 自学手册")
+![Rust 自学手册](./cover.jpg "Rust 自学手册")
 
 ## About
 程序员学习新语言，不建议按教材目录从头学到尾，这会极大消耗心力，加上 Rust 本身有一定上手难度，最终又是一次从入门到放弃。
